@@ -5,10 +5,10 @@ Este repositório abriga um projeto de ETL (Extração, Transformação e Carga)
 O objetivo deste projeto é extrair dados de uma base de dados pública sobre competições europeias de futebol, realizar transformações necessárias para preparar os dados para análise, carregar os dados em um formato adequado e, finalmente, realizar análises exploratórias utilizando o Power BI.
 
 ## Fonte de Dados
-Os dados são extraídos de uma base de dados pública elaborada em diversos arquivos .csv, obtida no site Kaggle, sobre estatísticas e informações de jogadores profissionais de futebol que atuaram em competições europeias. A base de dados pode ser encontrada aqui: https://www.kaggle.com/datasets/davidcariboo/player-scores
+Os dados são extraídos de uma base de dados pública elaborada em diversos arquivos .csv, obtida no site Kaggle, sobre estatísticas e informações de jogadores profissionais de futebol que atuaram em competições europeias. A base de dados pode ser encontrada aqui: https://www.kaggle.com/datasets/davidcariboo/player-scores \
+Não foi possível colocar os arquivos utilizados dentro do repositório devido aos seus tamanhos serem grandes demais.
 
 ## Estrutura do Repositório
-**base_de_dados:** Contém os arquivos .csv que são a base de dados bruto do projeto. \
 **dashboard:** Pasta que contém o arquivo do dashboard Power Bi e a imagem de sua tela de fundo. \
 **complete_data.csv:** Contém os dados tratados carregados em um arquivo csv. \
 **complete_data.xlsx:** Contém os dados tratados carregados em um arquivo excel. \
