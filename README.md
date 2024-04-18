@@ -6,7 +6,7 @@ O objetivo deste projeto é extrair dados de uma base de dados pública sobre co
 
 ## Fonte de Dados
 Os dados são extraídos de uma base de dados pública elaborada em diversos arquivos .csv, obtida no site Kaggle, sobre estatísticas e informações de jogadores profissionais de futebol que atuaram em competições europeias. A base de dados pode ser encontrada aqui: https://www.kaggle.com/datasets/davidcariboo/player-scores \
-Não foi possível colocar os arquivos utilizados dentro do repositório devido aos seus tamanhos serem grandes demais.
+Não foi possível colocar os arquivos do dataset utilizados dentro do repositório devido aos seus tamanhos serem grandes demais, mas os resultados do script de manipulação de dados podem ser vistos normalmente no repositório.
 
 ## Estrutura do Repositório
 **dashboard:** Pasta que contém o arquivo do dashboard Power Bi e a imagem de sua tela de fundo. \
